@@ -21,7 +21,7 @@ using std::vector;
 //#define BABELFISH
 
 #ifndef BABELFISH
-#define printf(...)
+//#define printf(...)
 #endif
 
 #define MEM2_PROT           0x0D8B420A
